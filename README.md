@@ -26,7 +26,11 @@ ros2 run custom_explorer explorer
 
 # Files Directory
 /home/schen08/turtlebot3_ws/src/turtlebot3/turtlebot3_cartographer/launch/cartographer.launch.py
+
 /opt/ros/humble/share/nav2_bringup/launch/navigation_launch.py
+
 /home/schen08/ros2_ws/src/Autonomous-Explorer-and-Mapper-ros2-nav2/custom_explorer/explorer.py
+
 /home/schen08/turtlebot3_lds_2d_improved.lua
+
 /home/schen08/nav2_params_improved.yaml
